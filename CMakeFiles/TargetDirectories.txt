@@ -1,0 +1,2 @@
+/home/utente/Documenti/Hello_git/CMakeFiles/rebuild_cache.dir
+/home/utente/Documenti/Hello_git/CMakeFiles/edit_cache.dir
